@@ -1,5 +1,5 @@
 {
-    "name": "PressureSensor",
+    "name": "PressureSensor_Internal",
     "description": "",
     "dependencies": {
         "core": "*",
